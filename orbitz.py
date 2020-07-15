@@ -13,7 +13,7 @@ MunDist = 12000 # km, Moon is in a circular equatorial orbit around Kerbin
 
 h0 = 100 #km circ orbit to start.
 r0 = h0 + rKerb
-
+#wowowow
 
 v0Circ = np.sqrt(muKerb / r0) #initial circular velocity
 
